@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/embed/3oEjHWbXcpeKhTktXi)"  />
+  <img height="200" src="https://giphy.com/embed/3oEjHWbXcpeKhTktXi"/>
 </div>
 <iframe src="" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi">via GIPHY</a></p>
 
