@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
-
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/furkanaydintr" target="_blank">
@@ -17,21 +12,23 @@
 
 <br clear="both">
 
-<h1 align="right">💭</h1>
+<h1 align="center">💭</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">👨🏽‍💻  About Me</h1>
 
 ###
 
-<p align="left">I'm Furkan from Turkey<br><br>🔺 I’m working as Software Support<br>🔺 I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br>🔺 In my free time i read and write or coding</p>
+<h5 align="left">I'm Furkan from Turkey<br><br>🟡 I’m working as Software Support<br>🟡 I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br>🟡 In my free time i read and write or coding</h5>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h1 align="center">🛠 Language and Tools</h1>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -47,6 +44,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/embed/3oEjHWbXcpeKhTktXi)"  />
+</div>
+<iframe src="" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi">via GIPHY</a></p>
 
 ###
