@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">I'm Furkan from Turkey<br><br>🟡 I’m working as Software Support<br>🟡 I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br>🟡 In my free time i read and write or coding</h5>
+<h5 align="left">I'm Furkan from Turkey<br><br>🔘 I’m working as Software Support<br>🔘 I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br>🔘 In my free time i read and write or coding</h5>
 
 ###
 
